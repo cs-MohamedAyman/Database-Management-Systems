@@ -1,4 +1,4 @@
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/database-management-systems.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/database-systems.jpg">
 
 # Advanced-Database-Systems
 Database management systems lectures for computer science students.
